@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="Chedder.png" width="3873" height="1322">
+  <SubTexture name="Cheddar-down0001" x="0" y="0"  width="457.5" height="254" frameX="-0" frameY="-10" frameWidth="457.5" frameHeight="264"/>
+  <SubTexture name="Cheddar-down0002" x="457.5" y="0"  width="457.5" height="255" frameX="-0" frameY="-9" frameWidth="457.5" frameHeight="264"/>
+  <SubTexture name="Cheddar-down0003" x="915" y="0"  width="446" height="261.5" frameX="-7" frameY="-2.5" frameWidth="457.5" frameHeight="264"/>
+  <SubTexture name="Cheddar-down0007" x="1361" y="0"  width="438" height="263.5" frameX="-11" frameY="-0.5" frameWidth="457.5" frameHeight="264"/>
+  <SubTexture name="Cheddar-down0005" x="1799" y="0"  width="438.5" height="264" frameX="-11" frameY="-0" frameWidth="457.5" frameHeight="264"/>
+  <SubTexture name="Cheddar-right0002" x="2237.5" y="0"  width="544.5" height="299.5" frameX="-0" frameY="-10" frameWidth="544.5" frameHeight="312"/>
+  <SubTexture name="Cheddar-right0001" x="2782" y="0"  width="544" height="300" frameX="-0" frameY="-9.5" frameWidth="544.5" frameHeight="312"/>
+  <SubTexture name="Cheddar-right0003" x="3326" y="0"  width="517" height="302" frameX="-0" frameY="-9" frameWidth="544.5" frameHeight="312"/>
+  <SubTexture name="Cheddar-right0005" x="0" y="255"  width="480.5" height="311.5" frameX="-0" frameY="-0.5" frameWidth="544.5" frameHeight="312"/>
+  <SubTexture name="Cheddar-idle0001" x="480.5" y="255"  width="416.5" height="315.5" frameX="-0" frameY="-17" frameWidth="422" frameHeight="332.5"/>
+  <SubTexture name="Cheddar-right0007" x="897" y="263.5"  width="479" height="312" frameX="-0" frameY="-0" frameWidth="544.5" frameHeight="312"/>
+  <SubTexture name="Cheddar-idle0003" x="1376" y="263.5"  width="416.5" height="316" frameX="-0" frameY="-16.5" frameWidth="422" frameHeight="332.5"/>
+  <SubTexture name="Cheddar-left0002" x="1792.5" y="264"  width="416" height="319" frameX="-0" frameY="-7" frameWidth="416" frameHeight="326"/>
+  <SubTexture name="Cheddar-left0001" x="2208.5" y="299.5"  width="416" height="320" frameX="-0" frameY="-6" frameWidth="416" frameHeight="326"/>
+  <SubTexture name="Cheddar-idle0005" x="2624.5" y="300"  width="416.5" height="320.5" frameX="-0" frameY="-12" frameWidth="422" frameHeight="332.5"/>
+  <SubTexture name="Cheddar-left0003" x="3041" y="302"  width="416" height="322.5" frameX="-0" frameY="-3.5" frameWidth="416" frameHeight="326"/>
+  <SubTexture name="Cheddar-left0004" x="3457" y="302"  width="416" height="322.5" frameX="-0" frameY="-3.5" frameWidth="416" frameHeight="326"/>
+  <SubTexture name="Cheddar-idle0007" x="0" y="566.5"  width="416.5" height="325.5" frameX="-0" frameY="-7" frameWidth="422" frameHeight="332.5"/>
+  <SubTexture name="Cheddar-left0005" x="416.5" y="570.5"  width="416" height="326" frameX="-0" frameY="-0" frameWidth="416" frameHeight="326"/>
+  <SubTexture name="Cheddar-left0006" x="832.5" y="575.5"  width="416" height="326" frameX="-0" frameY="-0" frameWidth="416" frameHeight="326"/>
+  <SubTexture name="Cheddar-left0007" x="1248.5" y="579.5"  width="416" height="326" frameX="-0" frameY="-0" frameWidth="416" frameHeight="326"/>
+  <SubTexture name="Cheddar-left0008" x="1664.5" y="583"  width="416" height="326" frameX="-0" frameY="-0" frameWidth="416" frameHeight="326"/>
+  <SubTexture name="Cheddar-left0009" x="2080.5" y="619.5"  width="416" height="326" frameX="-0" frameY="-0" frameWidth="416" frameHeight="326"/>
+  <SubTexture name="Cheddar-idle0013" x="2496.5" y="620.5"  width="416.5" height="326.5" frameX="-0" frameY="-6" frameWidth="422" frameHeight="332.5"/>
+  <SubTexture name="Cheddar-idle0008" x="2913" y="624.5"  width="416.5" height="327.5" frameX="-0" frameY="-5" frameWidth="422" frameHeight="332.5"/>
+  <SubTexture name="Cheddar-idle0015" x="3329.5" y="624.5"  width="416.5" height="327.5" frameX="-0" frameY="-5" frameWidth="422" frameHeight="332.5"/>
+  <SubTexture name="Cheddar-idle0017" x="0" y="892"  width="416.5" height="328.5" frameX="-0" frameY="-4" frameWidth="422" frameHeight="332.5"/>
+  <SubTexture name="Cheddar-idle0019" x="416.5" y="901.5"  width="416.5" height="329" frameX="-0" frameY="-3.5" frameWidth="422" frameHeight="332.5"/>
+  <SubTexture name="Cheddar-idle0011" x="833" y="905.5"  width="422" height="331.5" frameX="-0" frameY="-1" frameWidth="422" frameHeight="332.5"/>
+  <SubTexture name="Cheddar-idle0009" x="1255" y="909"  width="416.5" height="332.5" frameX="-0" frameY="-0" frameWidth="422" frameHeight="332.5"/>
+  <SubTexture name="Cheddar-up0005" x="1671.5" y="945.5"  width="416" height="355.5" frameX="-0" frameY="-14" frameWidth="416" frameHeight="369.5"/>
+  <SubTexture name="Cheddar-up0007" x="2087.5" y="947"  width="416" height="357" frameX="-0" frameY="-12.5" frameWidth="416" frameHeight="369.5"/>
+  <SubTexture name="Cheddar-up0003" x="2503.5" y="952"  width="416" height="358.5" frameX="-0" frameY="-11" frameWidth="416" frameHeight="369.5"/>
+  <SubTexture name="Cheddar-up0002" x="2919.5" y="952"  width="416" height="368.5" frameX="-0" frameY="-1" frameWidth="416" frameHeight="369.5"/>
+  <SubTexture name="Cheddar-up0001" x="3335.5" y="952"  width="416" height="369.5" frameX="-0" frameY="-0" frameWidth="416" frameHeight="369.5"/>
+  <SubTexture name="Cheddar-down0004" x="915" y="0"  width="446" height="261.5" frameX="-7" frameY="-2.5" frameWidth="457.5" frameHeight="264"/>
+  <SubTexture name="Cheddar-down0006" x="1799" y="0"  width="438.5" height="264" frameX="-11" frameY="-0" frameWidth="457.5" frameHeight="264"/>
+  <SubTexture name="Cheddar-down0008" x="1361" y="0"  width="438" height="263.5" frameX="-11" frameY="-0.5" frameWidth="457.5" frameHeight="264"/>
+  <SubTexture name="Cheddar-down0009" x="1361" y="0"  width="438" height="263.5" frameX="-11" frameY="-0.5" frameWidth="457.5" frameHeight="264"/>
+  <SubTexture name="Cheddar-down0010" x="1361" y="0"  width="438" height="263.5" frameX="-11" frameY="-0.5" frameWidth="457.5" frameHeight="264"/>
+  <SubTexture name="Cheddar-idle0002" x="480.5" y="255"  width="416.5" height="315.5" frameX="-0" frameY="-17" frameWidth="422" frameHeight="332.5"/>
+  <SubTexture name="Cheddar-idle0004" x="1376" y="263.5"  width="416.5" height="316" frameX="-0" frameY="-16.5" frameWidth="422" frameHeight="332.5"/>
+  <SubTexture name="Cheddar-idle0006" x="2624.5" y="300"  width="416.5" height="320.5" frameX="-0" frameY="-12" frameWidth="422" frameHeight="332.5"/>
+  <SubTexture name="Cheddar-idle0010" x="1255" y="909"  width="416.5" height="332.5" frameX="-0" frameY="-0" frameWidth="422" frameHeight="332.5"/>
+  <SubTexture name="Cheddar-idle0012" x="833" y="905.5"  width="422" height="331.5" frameX="-0" frameY="-1" frameWidth="422" frameHeight="332.5"/>
+  <SubTexture name="Cheddar-idle0014" x="2496.5" y="620.5"  width="416.5" height="326.5" frameX="-0" frameY="-6" frameWidth="422" frameHeight="332.5"/>
+  <SubTexture name="Cheddar-idle0016" x="3329.5" y="624.5"  width="416.5" height="327.5" frameX="-0" frameY="-5" frameWidth="422" frameHeight="332.5"/>
+  <SubTexture name="Cheddar-idle0018" x="0" y="892"  width="416.5" height="328.5" frameX="-0" frameY="-4" frameWidth="422" frameHeight="332.5"/>
+  <SubTexture name="Cheddar-idle0020" x="416.5" y="901.5"  width="416.5" height="329" frameX="-0" frameY="-3.5" frameWidth="422" frameHeight="332.5"/>
+  <SubTexture name="Cheddar-idle0021" x="416.5" y="901.5"  width="416.5" height="329" frameX="-0" frameY="-3.5" frameWidth="422" frameHeight="332.5"/>
+  <SubTexture name="Cheddar-idle0022" x="416.5" y="901.5"  width="416.5" height="329" frameX="-0" frameY="-3.5" frameWidth="422" frameHeight="332.5"/>
+  <SubTexture name="Cheddar-idle0023" x="416.5" y="901.5"  width="416.5" height="329" frameX="-0" frameY="-3.5" frameWidth="422" frameHeight="332.5"/>
+  <SubTexture name="Cheddar-left0010" x="2080.5" y="619.5"  width="416" height="326" frameX="-0" frameY="-0" frameWidth="416" frameHeight="326"/>
+  <SubTexture name="Cheddar-right0004" x="3326" y="0"  width="517" height="302" frameX="-0" frameY="-9" frameWidth="544.5" frameHeight="312"/>
+  <SubTexture name="Cheddar-right0006" x="0" y="255"  width="480.5" height="311.5" frameX="-0" frameY="-0.5" frameWidth="544.5" frameHeight="312"/>
+  <SubTexture name="Cheddar-right0008" x="897" y="263.5"  width="479" height="312" frameX="-0" frameY="-0" frameWidth="544.5" frameHeight="312"/>
+  <SubTexture name="Cheddar-right0009" x="897" y="263.5"  width="479" height="312" frameX="-0" frameY="-0" frameWidth="544.5" frameHeight="312"/>
+  <SubTexture name="Cheddar-right0010" x="897" y="263.5"  width="479" height="312" frameX="-0" frameY="-0" frameWidth="544.5" frameHeight="312"/>
+  <SubTexture name="Cheddar-up0004" x="2503.5" y="952"  width="416" height="358.5" frameX="-0" frameY="-11" frameWidth="416" frameHeight="369.5"/>
+  <SubTexture name="Cheddar-up0006" x="1671.5" y="945.5"  width="416" height="355.5" frameX="-0" frameY="-14" frameWidth="416" frameHeight="369.5"/>
+  <SubTexture name="Cheddar-up0008" x="2087.5" y="947"  width="416" height="357" frameX="-0" frameY="-12.5" frameWidth="416" frameHeight="369.5"/>
+  <SubTexture name="Cheddar-up0009" x="2087.5" y="947"  width="416" height="357" frameX="-0" frameY="-12.5" frameWidth="416" frameHeight="369.5"/>
+  <SubTexture name="Cheddar-up0010" x="2087.5" y="947"  width="416" height="357" frameX="-0" frameY="-12.5" frameWidth="416" frameHeight="369.5"/>
+</TextureAtlas>
