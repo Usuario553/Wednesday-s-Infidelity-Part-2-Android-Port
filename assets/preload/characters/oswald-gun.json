@@ -1,0 +1,1 @@
+{"animations":[{"anim":"intro","fps":24,"indices":[],"loop":false,"name":"OSWALD GUN","offsets":[0,0]}],"camera_position":[40,20],"dataType":"JSON","flip_x":false,"healthbar_colors":[83,85,82],"healthicon":"Oswald","image":"characters/OSWALD_GUN","no_antialiasing":false,"position":[-350,170],"scale":1.2,"sing_duration":4}
